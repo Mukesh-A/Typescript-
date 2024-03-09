@@ -1,4 +1,12 @@
 "use strict";
-const a = "hello";
-console.log(a);
- 
+let a;
+let nambo = 232;
+let check;
+let me;
+let surname;
+a = "sam";
+//function 
+const func = (n, m) => {
+    console.log(n, m);
+    return n * m;
+};
