@@ -29,5 +29,20 @@ arr4.forEach(i=>{
 const arr5:[number,number,number] = [23,33.3,3]
 
 
+//object
+type Obj = {
+    height: number;
+    weight:number;
+    gender:boolean
+};
+
+const obj:Obj={
+    height:345,
+    weight:23,
+    gender:true
+}
+ 
+
+
 
 
