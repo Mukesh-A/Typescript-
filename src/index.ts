@@ -1,3 +1,5 @@
+//data type
+
 let a:string;
 let nambo:number = 232
 let check:boolean;
